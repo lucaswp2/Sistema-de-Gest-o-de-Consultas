@@ -4,6 +4,8 @@ Aplicação Web ASP.NET Core MVC (.NET 8) para gerenciamento de usuários e
 registro de consultas médicas/profissionais, usando Entity Framework Core
 (Code First) e autenticação por cookies.
 
+🎥 **Link do vídeo:** [Assista aqui](https://youtu.be/eq7MapqATqo?si=j2HYEyPQN59RArZX)
+
 ## Estrutura do projeto
 
 ```
